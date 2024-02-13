@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBHQIR9UvMe6O4fmCUHMSGJXvI-fICrGbg",
-    authDomain: "xreport-demo.firebaseapp.com",
-    projectId: "xreport-demo",
-    storageBucket: "xreport-demo.appspot.com",
-    messagingSenderId: "368234453946",
-    appId: "1:368234453946:web:76f9f488bea1bf3ee1db83",
+  apiKey: "AIzaSyCD9mieCLVG52Il5zXCPq-dffuhwIIX5xs",
+  authDomain: "radioreport-1a942.firebaseapp.com",
+  projectId: "radioreport-1a942",
+  storageBucket: "radioreport-1a942.appspot.com",
+  messagingSenderId: "497051863117",
+  appId: "1:497051863117:web:3b72b50dd20e5e02eaf404",
     measurementId: "G-FF0JHD880R"
   }
 };
